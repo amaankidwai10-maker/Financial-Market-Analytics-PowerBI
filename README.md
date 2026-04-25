@@ -6,9 +6,6 @@ An end-to-end Power BI project analyzing S&amp;P 500 stock trends using Star Sch
 ## 📌 Project Overview
 This Power BI dashboard provides a deep-dive analysis of S&P 500 stock performance. Rather than simple visualization, this project demonstrates **end-to-end business intelligence**—from data cleaning in Power Query to complex statistical modeling in DAX.
 
-### 🖼️ Dashboard Preview
-![Dashboard Preview](Screenshots/dashboard_preview.png)
-
 ---
 
 ## 🛠️ Technical Architecture
