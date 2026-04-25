@@ -41,3 +41,4 @@ Instead of using raw data columns, I authored custom DAX measures to generate fi
 1. Download the `.pbix` file.
 2. Open in **Power BI Desktop**.
 3. Use the slicer to filter by individual stocks and observe how the **Moving Average** line responds to different market cycles.
+Note: Dataset is zipped due to GitHub file size limits.
